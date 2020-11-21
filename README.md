@@ -37,3 +37,4 @@
 * https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/data-options
 * https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree
 * https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/networking-options
+* https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
