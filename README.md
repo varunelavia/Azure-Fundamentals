@@ -26,3 +26,8 @@
 
 
 ## Who is using cloud computing?
+
+
+## Resources : 
+* https://aws.amazon.com/what-is-cloud-computing/
+* https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/
