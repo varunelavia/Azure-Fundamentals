@@ -31,3 +31,9 @@
 ## Resources : 
 * https://aws.amazon.com/what-is-cloud-computing/
 * https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/
+* https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
+* https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+* https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/data-options
+* https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree
+* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/networking-options
