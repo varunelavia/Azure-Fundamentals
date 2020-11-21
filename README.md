@@ -1,4 +1,4 @@
-# Azure-Fundamentals
+# Cloud-Fundamentals
 
 ## What is Cloud Computing ?
 
