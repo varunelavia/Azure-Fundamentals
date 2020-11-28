@@ -27,6 +27,9 @@
 - Create Replica of Database
 - Firewall of Database
 
+## Container Instance
+- Host Simple PHP website in Container Instance service 
+
 ## Theorey of CDN
 ## Theorey of Bastion Host
 ## Theorey of NAT Gateway
@@ -36,7 +39,6 @@
 
 ## 5 December
 - Basic Usage of Azure DevOps 
-- Container Instances
 - Kubernetes on Azure
 - Overview of Azure Cognitive Services
 - Overview of Traffic Manager
