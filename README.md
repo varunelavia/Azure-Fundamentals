@@ -39,3 +39,4 @@
 * https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/networking-options
 * https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
 * https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals
+* https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/
